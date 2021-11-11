@@ -1,7 +1,7 @@
 {
   "scanSettings": {
     "configMode": "EXTERNAL",
-    "configExternalURL": "https://gist.github.com/svg-at-wss/cc575ca4d24c4f426daabfd5e3b13254",
+    "configExternalURL": "https://svg-at-wss.github.io/whitesource-config/whitesource.config",
     "projectToken": "",
     "baseBranches": []
   },
