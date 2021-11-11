@@ -1,7 +1,7 @@
 {
   "scanSettings": {
-    "configMode": "AUTO",
-    "configExternalURL": "",
+    "configMode": "EXTERNAL",
+    "configExternalURL": "https://gist.github.com/cc575ca4d24c4f426daabfd5e3b13254.git",
     "projectToken": "",
     "baseBranches": []
   },
